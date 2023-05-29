@@ -86,11 +86,11 @@ class Users extends Component
             'name.min' => 'El nombre del usuario debe tener al menos 3 caracteres',
             'email.required' => 'Ingresa el correo',
             'email.email' => 'Ingresa un correo valido',
-            'name.unique' => 'El email ya eiste',
+            'name.unique' => 'El email ya existe',
             'status.required' => 'Selecciona el estatus del usuario',
             'status.not_in' => 'Selecciona el status',
-            'profile.required' => 'Selecciona el perfil/role del usuario',
-            'profile.not_in' => 'Selecciona un perfil/role distinto a Elegir',
+            'profile.required' => 'Selecciona el perfil/rol del usuario',
+            'profile.not_in' => 'Selecciona un perfil/rol distinto a Elegir',
             'password.required' => 'Ingresa el password',
             'password.min' => 'El password debe tener al menos 3 caracteres'
         ];
@@ -133,7 +133,7 @@ class Users extends Component
             'name.min' => 'El nombre del usuario debe tener al menos 3 caracteres',
             'email.required' => 'Ingresa el correo',
             'email.email' => 'Ingresa un correo valido',
-            'name.unique' => 'El email ya eiste',
+            'name.unique' => 'El email ya existe',
             'status.required' => 'Selecciona el estatus del usuario',
             'status.not_in' => 'Selecciona el status',
             'profile.required' => 'Selecciona el perfil/role del usuario',
